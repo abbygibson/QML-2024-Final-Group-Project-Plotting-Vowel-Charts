@@ -1,0 +1,183 @@
+speaker,word,vowel,F1,F2,lexical set,mono/diph,dipno
+abby,kit,?,536.19644,2398.736959,wells,m,
+abby,dress,?,809.491536,1961.56641,wells,m,
+abby,trap,æ,1017.06239,1712.460134,wells,m,
+abby,lot,?,846.31305,1139.486776,wells,m,
+abby,strut,?,785.814747,1672.56047,wells,m,
+abby,foot,?,593.582995,1687.742891,wells,m,
+abby,bath,æ,1008.721676,1656.200198,wells,m,
+abby,cloth,?,871.035314,1231.95117,wells,m,
+abby,nurse,?,706.646553,1649.576171,wells,m,
+abby,fleece,i,319.751424,2896.21109,wells,m ,
+abby,face1,e,494.877515,2284.562614,wells,d,d1
+abby,face2,?,417.95892,2790.137634,wells,d,d2
+abby,palm,?,870.44304,1268.520388,wells,m,
+abby,thought,?,907.56504,1177.570042,wells,m ,
+abby,goat1,o,607.487222,1683.521335,wells,d,d1
+abby,goat2,?,435.450622,1142.773761,wells,d,d2
+abby,goose,?,443.92404,2203.5115,wells,m,
+abby,price1,?,733.58426,1706.952606,wells,d,d1
+abby,price2,?,409.958597,2697.628245,wells,d,d2
+abby,choice1,?,535.946706,1121.250449,wells,d,d1
+abby,choice2,?,404.909663,2631.621441,wells,d,d2
+abby,mouth1,?,746.798236,1892.25178,wells,d,d1
+abby,mouth2,?,691.062699,1429.705164,wells,d,d2
+abby,heed,i,358.096039,3080.757721,hVd,m,
+abby,hid,?,543.005047,2463.84368,hVd,m,
+abby,hayed1,e,483.50184,2780.14515,hVd,d,d1
+abby,hayed2,?,421.071775,2933.088623,hVd,d,d2
+abby,head,?,803.583307,2143.951998,hVd,m,
+abby,had,æ,1258.02793,1694.94591,hVd,m,
+abby,hod,?,880.995101,1287.123297,hVd,m,
+abby,hawed,?,938.350752,1311.026156,hVd,m,
+abby,hud,?,838.077288,1408.067593,hVd,m,
+abby,hoed1,o,627.063328,1286.727553,hVd,d,d1
+abby,hoed2,?,404.00104,1228.944526,hVd,d,d2
+abby,hood,?,615.138655,1631.741108,hVd,m,
+abby,who'd,u,410.710552,1657.848763,hVd,m,
+abby,how'd1,a,1130.261038,1585.041822,hVd,d,d1
+abby,how'd2,?,607.902694,1166.677662,hVd,d,d2
+abby,hoyed1,?,605.517546,1042.428442,hVd,d,d1
+abby,hoyed2,?,389.263687,2694.006653,hVd,d,d2
+abby,hide1,a,1007.939823,1390.473796,hVd,d,d1
+abby,hide2,?,534.897368,2524.749704,hVd,d,d2
+abby,height1,?,732.181796,1818.175193,hVd,d,d1
+abby,height2,?,360.033769,3243.726214,hVd,d,d2
+abby,herd,?,645.478135,1683.746939,hVd,m,
+abby,ahead,?,840.865282,2138.697423,hVd,m ,
+jana,kit,?,443.812833,2132.472902,wells,m,
+jana,dress,e,429.837424,1790.159698,wells,m,
+jana,trap,æ,777.203461,1270.643116,wells,m,
+jana,lot,?,629.343066,981.158385,wells,m,
+jana,strut,?,502.371773,1563.594644,wells,m,
+jana,foot,?,511.980733,1519.651603,wells,m,
+jana,bath,æ,846.166309,1506.898215,wells,m,
+jana,cloth,?,546.88597,997.898461,wells,m,
+jana,nurse,?,448.912676,1517.589662,wells,m,
+jana,fleece,i,350.840793,2646.205925,wells,m,
+jana,face1,e,537.298912,1751.90589,wells,d,d1
+jana,face2,?,360.855108,2657.819993,wells,d,d2
+jana,palm,?,639.641404,985.98264,wells,m ,
+jana,thought,?,641.720387,989.610133,wells,m,
+jana,goat1,o,464.571685,1513.940522,wells,d,d1
+jana,goat2,?,384.925616,939.045722,wells,d,d2
+jana,goose,u,356.824546,1363.075582,wells,m,
+jana,price1,?,581.287033,1532.452091,wells,d,d1
+jana,price2,?,380.004516,2317.383177,wells,d,d2
+jana,choice1,o,510.883303,1199.998161,wells,d,d1
+jana,choice2,?,385.10708,2261.751568,wells,d,d2
+jana,mouth1,?,495.130634,1396.589577,wells,d,d1
+jana,mouth2,?,409.900453,1118.750397,wells,d,d2
+jana,heed,i,357.612612,2570.023394,hVd,m ,
+jana,hid,?,492.765756,2137.467063,hVd,m,
+jana,hayed1,e,496.654649,2319.629408,hVd,d,d1
+jana,hayed2,?,365.359574,2333.246525,hVd,d,d2
+jana,head,?,663.456864,2007.888066,hVd,m ,
+jana,had,æ,936.421655,1582.391242,hVd,m ,
+jana,hod,?,645.216316,986.486214,hVd,m ,
+jana,hawed,?,674.272071,970.843481,hVd,m ,
+jana,hud,?,564.534639,1428.833414,hVd,m ,
+jana,hoed1,o,489.731015,1014.202762,hVd,d,d1
+jana,hoed2,?,328.240839,1185.132228,hVd,d,d2
+jana,hood,?,499.051544,1264.649842,hVd,m ,
+jana,who'd,u,373.414476,842.099941,hVd,m,
+jana,how'd1,a,874.877184,1424.827476,hVd,d,d1
+jana,how'd2,?,483.406777,1021.465405,hVd,d,d2
+jana,hoyed1,o,514.341932,846.921067,hVd,d,d1
+jana,hoyed2,?,482.182016,1957.530502,hVd,d,d2
+jana,hide1,a,813.796042,1238.516161,hVd,d,d1
+jana,hide2,?,453.500183,2290.44798,hVd,d,d2
+jana,height1,?,793.760398,1356.33326,hVd,d,d1
+jana,height2,?,386.731453,2644.325292,hVd,d,d2
+jana,herd,?,492.045179,1474.914847,hVd,m,
+jana,ahead,e,614.352982,1853.873324,hVd,m,
+eli,kit,,537.6580641,2003.935721,wells,m,
+eli,dress,,690.25923,1558.749758,wells,m,
+eli,trap,,738.331427,1537.581047,wells,m,
+eli,lot,,613.757207,1063.595823,wells,m,
+eli,strut,,579.269235,1480.440144,wells,m,
+eli,foot,,503.070714,1354.965784,wells,m,
+eli,bath,,796.995659,1796.339172,wells,m,
+eli,cloth,,589.6802379,1654.159848,wells,m,
+eli,nurse,,495.545038,1689.595981,wells,m,
+eli,fleece,,252.109947,2654.532829,wells,m,
+eli,face1,,515.677685,2018.536549,wells,d,d1
+eli,face2,,308.74923,2582.391281,wells,d,d2
+eli,palm,,778.26222,880.884435,wells,m,
+eli,thought,,720.206215,1028.616804,wells,m,
+eli,goat1,,512.562495,1454.201752,wells,d,d1
+eli,goat2,,411.005983,1261.689638,wells,d,d2
+eli,goose,,291.621332,1574.308937,wells,m,
+eli,price1,,639.13372,1318.909799,wells,d,d1
+eli,price2,,448.672873,2173.439383,wells,d,d2
+eli,choice1,,478.617281,1205.499303,wells,d,d1
+eli,choice2,,389.644745,2165.720419,wells,d,d2
+eli,mouth1,,843.467599,1358.161809,wells,d,d1
+eli,mouth2,,621.821011,1038.327974,wells,d,d2
+eli,heed,,289.813829,2600.28064,hVd,m,
+eli,hid,,462.480714,2227.088794,hVd,m,
+eli,hayed1,,467.9634,2425.58423,hVd,d,d1
+eli,hayed2,,289.494069,2647.030431,hVd,d,d2
+eli,head,,596.535628,1996.03968,hVd,m,
+eli,had,,875.436048,1738.507202,hVd,m,
+eli,hod,,739.098006,1106.151993,hVd,m,
+eli,hawed,,731.72964,1074.050243,hVd,m,
+eli,hud,,620.78682,1338.661913,hVd,m,
+eli,hoed1,,595.752263,1240.274884,hVd,d,d1
+eli,hoed2,,362.784304,1122.504303,hVd,d,d2
+eli,hood,,449.745531,1372.563691,hVd,m,
+eli,who'd,,306.977538,1298.677122,hVd,m,
+eli,how'd1,,813.534528,1597.85754,hVd,d,d1
+eli,how'd2,,604.328296,1144.8073,hVd,d,d2
+eli,hoyed1,,492.751503,994.05187,hVd,d,d1
+eli,hoyed2,,372.021607,2150.180581,hVd,d,d2
+eli,hide1,,859.446913,1366.072349,hVd,d,d1
+eli,hide2,,395.740571,2128.074231,hVd,d,d2
+eli,height1,,794.451512,1707.69406,hVd,d,d1
+eli,height2,,339.535782,2457.457284,hVd,d,d2
+eli,herd,,515.602639,1359.77352,hVd,m,
+eli,ahead,,644.425196,1848.622356,hVd,m,
+fiona,kit,,571.200044,2472.387832,wells,m,
+fiona,dress,,885.131001,1857.221334,wells,m,
+fiona,trap,,950.008119,1474.258194,wells,m,
+fiona,lot,,724.75535,1015.109682,wells,m,
+fiona,strut,,805.85219,1355.72224,wells,m,
+fiona,foot,,533.892288,1535.838324,wells,m,
+fiona,bath,,993.040016,1674.550806,wells,m,
+fiona,cloth,,716.86222,1125.476128,wells,m,
+fiona,nurse,,602.453429,1571.996684,wells,m,
+fiona,fleece,, 339.515971 ,2508.438689,wells,m,
+fiona,face1,,581.865557,2105.66643,wells,d,d1
+fiona,face2,,411.824176,2712.423813,wells,d,d2
+fiona,palm,,920.537681,1184.085754,wells,m,
+fiona,thought,,690.71335,1080.179767,wells,m,
+fiona,goat1,,554.552772,1273.658844,wells,d,d1
+fiona,goat2,,381.326483,1021.231738,wells,d,d2
+fiona,goose,,391.69784,2063.428246,wells,m,
+fiona,price1,,801.971591 ,1239.495109,wells,d,d1
+fiona,price2,,501.737503,2520.280523,wells,d,d2
+fiona,choice1,,595.999724 ,997.122799,wells,d,d1
+fiona,choice2,,378.933949,2586.785118,wells,d,d2
+fiona,mouth1,,937.003675,1493.898501,wells,d,d1
+fiona,mouth2,,635.189586 ,909.04266,wells,d,d2
+fiona,heed,,315.541184,2920.957209,hVd,m,
+fiona,hid,,511.406127,2517.386677,hVd,m,
+fiona,hayed1,,665.499599,2583.374409,hVd,d,d1
+fiona,hayed2,,419.686911,2619.129731,hVd,d,d2
+fiona,head,,871.108855,2333.250246,hVd,m,
+fiona,had,,1067.665053,1646.275624,hVd,m,
+fiona,hod,,728.598981,940.902657 ,hVd,m,
+fiona,hawed,,646.4526,918.873856,hVd,m,
+fiona,hud,,519.560425,2143.943157,hVd,m,
+fiona,hoed,,502.149205,1148.816516,hVd,m,
+fiona,hood,,417.474342,2042.651048,hVd,m,
+fiona,who'd,,370.668529,1863.486247,hVd,m,
+fiona,how'd1,,941.309934,1414.78782,hVd,d,d1
+fiona,how'd2,,542.260094,1031.245762,hVd,d,d2
+fiona,hoyed1,,703.507599,943.091839,hVd,d,d1
+fiona,hoyed2,,422.648347,2498.698121,hVd,d,d2
+fiona,hide,,532.039577,2473.664655,hVd,m,
+fiona,height1,,997.724738,1540.438811,hVd,d,d1
+fiona,height2,,360.424304,2482.090259,hVd,d,d2
+fiona,herd,,613.982039 ,1492.359755,hVd,m,
+fiona,ahead,,878.478917,2216.158216,hVd,m,
